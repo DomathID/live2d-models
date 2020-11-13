@@ -1,53 +1,52 @@
 # Live2d model
 
-个人收集的Live2d模型，一般提取自游戏中，手游居多。手游的Live2d，音频资源一般有加密，解密方法来源与网络上。
+Live2d models collected by individuals are generally extracted from games, most of which are mobile games. For Live2d mobile games, audio resources generally have encryption and decryption method sources and the Internet.
 
 
-**注意**
+**note**
 
 
-不保证模型的配置正确，如果不能用Live2d Viewer查看，请查看model.json(model3.json)是否配置正确。
-模型配置说明可查看我个人写的说明，仅供参考
-[配置说明](https://eikanya.github.io/post/live2d%E9%85%8D%E7%BD%AE/)
+There is no guarantee that the configuration of the model is correct. If you cannot view it with Live2d Viewer, please check whether model.json (model3.json) is configured correctly.
+Model configuration instructions can view the instructions written by me, for reference only
+[Configuration Instructions](https://eikanya.github.io/post/live2d%E9%85%8D%E7%BD%AE/)
 
 
-编辑模型可以使用Live2DViewerEX，自行添加语音或修改模型配置。
-[Live2DViewerEX配置例子](https://eikanya.github.io/post/liv2DViewerEX%E9%85%8D%E7%BD%AE/)
+You can use Live2DViewerEX to edit the model to add voice or modify the model configuration.
+[Live2DViewerEX configuration example](https://eikanya.github.io/post/liv2DViewerEX%E9%85%8D%E7%BD%AE/)
 
-**看板娘**
+**Kanban Girl**
 
 
-Live2d模型也适合放在个人博客，个人网站上。Hexo，wordpress，typecho等等。 
+Live2d model is also suitable for personal blogs and personal websites. Hexo, wordpress, typecho, etc.
  
-请自行在github，google，baidu找相应教程，moc2教程很多，也比较容易配置。 
+Please find the corresponding tutorials on github, google, and baidu by yourself. There are many moc2 tutorials and they are relatively easy to configure.
 
-如果模型不显示，请检查模型格式和配置文件。 
+If the model is not displayed, please check the model format and configuration file.
 
-Live2d模型也可以用于facerig，当虚拟角色，vtuber出道。  
+Live2d model can also be used for facerig, as a virtual character, vtuber debut.
   
-- - -
+---
 
-我的个人博客[博客](https://eikanya.github.io/) 上有测试live2d的moc3模型，也有部分相关游戏Live2d模型和音频的提取方法，因为moc模型网络上教程很多，源码也有，所以就测试一下moc3模型。  
+My personal blog [blog](https://eikanya.github.io/) has moc3 models for testing live2d, as well as some related game Live2d models and audio extraction methods, because there are many tutorials on the moc model network, and the source code is also available. So just test the moc3 model.
 
-我的博客上测试的live2d也是参考自网络上，自行修改，功能还不多，自己娱乐还行。注意LICENSE,请勿作商业用途。
+The live2d tested on my blog is also based on the Internet, modified by myself, there are not many functions, and my own entertainment is fine. Pay attention to LICENSE, do not use it for commercial purposes.
 
 [Live2d moc3 Demo](https://eikanya.github.io/link/)
 
-- - -
-少女前线Live2d在线预览：
-[少女前线](http://gfl.zzzzz.kr/dolls.php?lang=ja)
+---
+Girls Frontline Live2d online preview:
+[Girls Frontline](http://gfl.zzzzz.kr/dolls.php?lang=ja)
 
-碧蓝航线Live2d在线预览：
-[碧蓝航线](https://l2d.alg-wiki.com/)
+Azur Lane Live2d online preview:
+[Azur Lane](https://l2d.alg-wiki.com/)
 
 
 
-**下载** **Download**
+**Download** **Download**
 
-文件较多，可以使用GitZip，选择单个文件夹下载。
+There are many files, you can use GitZip and choose a single folder to download.
   
 [GitZip](https://gitzip.org/)
 
 
 [FastGit](https://fastgit.org/)
-
