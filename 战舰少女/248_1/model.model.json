@@ -58,7 +58,7 @@
     },
 
 
-    /* ｵ･ﾎｻﾊﾇｺﾁﾃ・*/
+
     "trigger": [
         { "id": "D_REF_MUPPET", "actionType": "click", "action": [ "hide_plane" ], "delay": 4000, "delay_type": 1, "interval": [ 0 ] ,"dialogue":"您想做什么？！紫云是我的哦！"},
         { "id": "D_REF_SUTOKA", "actionType": "up", "action": [ "skirt" ], "delay": 3500, "delay_type": 1, "interval": [ 0 ] ,"dialogue":"都说过了…这种事情是不允许的啦！提督，坏心眼！"},
