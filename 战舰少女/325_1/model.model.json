@@ -42,7 +42,7 @@
     },
 
 
-    /* ｵ･ﾎｻﾊﾇｺﾁﾃ・*/
+   
     "trigger": [
         { "id": "D_REF.FACE", "actionType": "click", "action": [ "motou" ], "delay": 6000, "delay_type": 1, "interval": [ 0 ] ,"dialogue":"指挥官…这也是礼仪的一种吗？"},
         { "id": "D_REF.FACE", "actionType": "stroke", "action": [ "nanguo" ], "delay": 9000, "delay_type": 1, "interval": [ 0 ] ,"dialogue":"我的体质非常特别。工作的时候一点儿也不觉得累，如果闲着无事反而会使我委顿不堪了。"},
@@ -59,7 +59,7 @@
         "x": 0,
         "y": 200
     },
-    /* ¸¡µãÊý±íÊ¾»ùÓÚ1024 * 576Çé¿öÏÂµÄ±ÈÀý */
+ 
     "head_range": {
         "x": 1,
         "y": 1
